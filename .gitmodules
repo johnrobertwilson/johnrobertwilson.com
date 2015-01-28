@@ -1,0 +1,6 @@
+[submodule "jekyll/so-simple-theme"]
+	path = jekyll/so-simple-theme
+	url = git@github.com:johnrobertwilson/so-simple-theme.git
+[submodule "jrw-dot-com-jekyll-source"]
+	path = jrw-dot-com-jekyll-source
+	url = git@github.com:johnrobertwilson/jrw-dot-com-jekyll-source.git
